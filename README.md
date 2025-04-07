@@ -40,12 +40,11 @@ Here are some ideas to get you started:
 ![lxdatascience's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxdatascience&show_icons=true&theme=dracula)
 -->
 
-## 💻 YouTube Videos I'm Watching Right Now
+## 💻 YouTube Video I'm Watching Right Now
  <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
  <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
  <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
  <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
- <!-- BEGIN YOUTUBE-CARDS -->
-[![XGBoost Part 1 (of 4): Regression](https://ytcards.demolab.com/?id=OtD8wVaFm6E&title=XGBoost+Part+1+(of+4):+Regression&lang=en&timestamp=1576483200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1545 "XGBoost Part 1 (of 4): Regression")](https://youtu.be/OtD8wVaFm6E?si=f8weIgcNUi7F_ooS)
-[![XGBoost Part 2 (of 4): Classification](https://ytcards.demolab.com/?id=8b1JEDvenQU&title=XGBoost+Part+2+(of+4):+Classification&lang=en&timestamp=1578902400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1517 "XGBoost Part 2 (of 4): Classification")](https://youtu.be/8b1JEDvenQU?si=_FZLU7krZGz5RIWc)  
+ <!-- BEGIN YOUTUBE-CARDS --> 
 [![XGBoost Part 3 (of 4): Mathematical Details](https://ytcards.demolab.com/?id=ZVFeW798-2I&title=XGBoost+Part+3+(of+4):+Mathematical+Details&lang=en&timestamp=1581235200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1643 "XGBoost Part 3 (of 4): Mathematical Details")](https://youtu.be/ZVFeW798-2I?si=NUYSK667BGb01QqX)
+<!-- END YOUTUBE-CARDS -->
